@@ -1,0 +1,12 @@
+dia1 = float(input("Ingrese las horas de vuelo del dia 1:" ))
+dia2 = float(input("Ingrese las horas de vuelo del dia 2:" ))
+dia3 = float(input("Ingrese las horas de vuelo del dia 3:" ))
+dia4 = float(input("Ingrese las horas de vuelo del dia 4:" ))
+dia5 = float(input("Ingrese las horas de vuelo del dia 5:" ))
+dia6 = float(input("Ingrese las horas de vuelo del dia 6:" ))
+dia7 = float(input("Ingrese las horas de vuelo del dia 7:" ))
+dia8 = float(input("Ingrese las horas de vuelo del dia 8:" ))
+dia9 = float(input("Ingrese las horas de vuelo del dia 9:" ))
+dia10 = float(input("Ingrese las horas de vuelo del dia 10:" ))
+promedio= (dia1+dia2+dia3+dia4+dia5+dia6+dia7+dia8+dia9+dia10)/10
+print("El promedio de horas de vuelo es:", promedio)
